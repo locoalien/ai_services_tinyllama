@@ -1,5 +1,5 @@
 # AI Services con FastApi (TinyLlama)
-
+![Descripción de la imagen](/img/tinyllama.png)
 Medium: 
 
 Proyecto donde se muestra a manera de ejemplo como ejecutar el modelo tinyllama que utiliza bajo recursos de Hardware. Se emplea FastApi como Framework para la creacion del microservicio.
